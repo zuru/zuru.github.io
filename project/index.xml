@@ -5,7 +5,7 @@
     <link>/project/</link>
       <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Nikolaos Zioulis</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Nikolaos Zioulis</copyright><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/sharing.png</url>
       <title>Projects</title>
@@ -13,15 +13,32 @@
     </image>
     
     <item>
-      <title>Example Project</title>
-      <link>/project/example/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/example/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+      <title>ATLANTIS</title>
+      <link>/project/atlantis/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/project/atlantis/</guid>
+      <description>&lt;p&gt;In many application areas (e.g. interior design, furniture retailing or renovation), communication with a customer or future user during the planning and design phase it is crucial for selecting the right products and configurations. AR has the potential to make the communication processes highly effective and provide a better experience for the customer. Current AR authoring solutions are quite complex and require manually creating scenes or rely on objects prepared with even more complex applications (e.g. CAD). ATLANTIS will fill this gap in authoring AR experiences by creating a faithful textured geometric (3D) representation from images of the real scene and identifying and segmenting objects in the scene and associating them with the 3D representation.&lt;/p&gt;
+&lt;p&gt;The ATLANTIS authoring tool will enable the fusion of 3D CG elements with real scenes in a guided manner using artificial intelligence (AI) to facilitate more productive and effective content creation. This allows automatic alignment of inserted objects and automated layout generation, enabling the user to interact with different options without the need to manually author each of them. In addition, ATLANTIS will innovate beyond traditional AR authoring by complementing the capacity with Diminished Reality (DR) authoring capabilities, enabling the removal and replacement of real objects in the scene allowing to visualise also heavy changes to an environment. The innovations of ATLANTIS will be integrated in an existing solution for interior design and retailing, and validated with professionals and customers.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hyper360</title>
+      <link>/project/hyper360/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/project/hyper360/</guid>
+      <description>&lt;p&gt;Hyper360 aims at introducing a complete solution for the capture, production, enhancement, delivery and consumption of an innovative free viewpoint video (FVV) media format to the OTT media sectors, through careful validation and large demonstrations.
+Envisioning increasingly immersive experiences, the convergence of omnidirectional (360°) and 3D content will extend current short productions of 360° videos  with novel and powerful storytelling opportunities. Furthermore, leveraging on the – inherent to the selected format – capabilities, the broadband delivered content will be offered with additional audio-visual functionalities, bringing together more types of digital content, and adapted according to the viewer’s preferences offering unique experiences upon content consumption.&lt;/p&gt;
+&lt;p&gt;With novel content through the fusion of modern formats (360° and 3D), the European media sector can gain an edge over global competition, reduce the global players’ market share and even penetrate global markets that have been unreachable until now, both through content and service provisions.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>5G-Media</title>
+      <link>/project/5gmedia/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/project/5gmedia/</guid>
+      <description>&lt;p&gt;5G-MEDIA aims at innovating media-related applications by investigating how these applications and the underlying 5G network should be coupled and interwork to the benefit of both. In this respect, 5G-MEDIA addresses the objectives of 1) capitalizing and properly extending the valuable outcomes of the running 5G PPP projects to offer an agile programming, verification and orchestration platform for services, and 2) developing network functions and applications to be demonstrated in large-scale deployments, based on 3 well-defined use cases (in the areas of immersive media and VR, smart production and user-generated content, and UHD over CDN) of diverse requirements and particular interest for the consortium partners.&lt;/p&gt;
 </description>
     </item>
     
